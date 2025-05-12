@@ -1,0 +1,49 @@
+
+  .category-tag {
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 2px 8px;
+      border-radius: 5px;
+      color: white;
+    }
+  
+
+
+
+.business { background-color: #f4b400; }
+.technology { background-color: #ea4335; }
+.culture { background-color: #4285f4; }
+.health { background-color: #34a853; }
+.sports { background-color: #db4437; }
+.world { background-color: #6c63ff; }
+ 
+.category-title {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      background: rgba(0, 0, 0, 0.5);
+      color: white;
+      text-align: center;
+      padding: 10px 0;
+    }
+ 
+.category-card img {
+  height: 100px;
+ width: 100px;
+}
+ .Featured {
+   border-bottom: 1px solid #0a0707;
+   margin: 1rem 0;
+ }
+
+ 
+  
+
+
+
+ 
+ 
+
+
+
+
